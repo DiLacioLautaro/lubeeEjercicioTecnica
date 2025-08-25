@@ -1,0 +1,111 @@
+/* src/styles/base.css */
+
+/* ===== Tokens generales ===== */
+:root {
+  --radius: 12px;        
+  --bg-app: #f7f8fb;     
+  --text-app: #111827;     
+}
+
+/* ===== Layout raíz ===== */
+html, body, #app {
+  height: 100%;
+}
+
+html, body {
+  font-family: 'Inter', system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+  background: var(--bg-app);
+  color: var(--text-app);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ===== Tipografía base ===== */
+h1, h2, h3 {
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  margin: 0 0 .5rem 0;
+}
+
+h1 { font-size: 1.6rem; }
+h2 { font-size: 1.25rem; }
+h3 { font-size: 1.05rem; }
+
+p { margin: 0 0 .75rem 0; }
+
+/* ===== Componentes Bootstrap (redondeos suaves) ===== */
+.card,
+.modal-content,
+.list-group,
+.dropdown-menu,
+.offcanvas,
+.toast {
+  border-radius: var(--radius);
+}
+
+/* Controles de formulario */
+.form-control,
+.form-select,
+.input-group-text,
+.btn {
+  border-radius: calc(var(--radius) - 4px);
+}
+
+.btn-outline-secondary:hover,
+.btn-outline-danger:hover {
+  filter: brightness(0.98);
+}
+
+.rounded-2xl { border-radius: var(--radius) !important; }
+
+.shadow-soft {
+  box-shadow: 0 2px 12px rgba(0, 0, 0, .06);
+}
+
+.table-wrapper { overflow-x: auto; }
+
+.empty {
+  text-align: center;
+  padding: 2rem 1rem;
+  color: #6b7280;
+  display: grid;
+  gap: .75rem;
+  place-items: center;
+}
+
+.thumb {
+  width: 64px;
+  height: 48px;
+  border-radius: 10px;
+  background: #f3f4f6;
+  display: grid;
+  place-items: center;
+  overflow: hidden;
+  border: 1px solid #e5e7eb;
+}
+.thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.coords { font-variant-numeric: tabular-nums; }
+
+.icon-pill {
+  width: 42px;
+  height: 42px;
+  border-radius: 12px;
+  display: grid;
+  place-items: center;
+  background: #eef2ff;
+  color: #4338ca;
+  border: 1px solid #c7d2fe;
+}
+
+.mb-3x { margin-bottom: 0.75rem; }         
+.mx-auto { margin-left: auto; margin-right: auto; }
+
+.surface-card {
+  background: #fff;
+  border-radius: var(--radius);
+}

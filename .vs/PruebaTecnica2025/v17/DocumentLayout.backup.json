@@ -1,0 +1,368 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\PruebaTecnica2025\\PruebaTecnica2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4717999-3CB0-4091-9D18-96C4D2695DD7}|PruebaTecnica2025.csproj|c:\\users\\admin\\desktop\\pruebatecnica2025\\pruebatecnica2025\\controllers\\publicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4717999-3CB0-4091-9D18-96C4D2695DD7}|PruebaTecnica2025.csproj|solutionrelative:controllers\\publicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4717999-3CB0-4091-9D18-96C4D2695DD7}|PruebaTecnica2025.csproj|c:\\users\\admin\\desktop\\pruebatecnica2025\\pruebatecnica2025\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B4717999-3CB0-4091-9D18-96C4D2695DD7}|PruebaTecnica2025.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4717999-3CB0-4091-9D18-96C4D2695DD7}|PruebaTecnica2025.csproj|c:\\users\\admin\\desktop\\pruebatecnica2025\\pruebatecnica2025\\appsettings.docker.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B4717999-3CB0-4091-9D18-96C4D2695DD7}|PruebaTecnica2025.csproj|solutionrelative:appsettings.docker.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4717999-3CB0-4091-9D18-96C4D2695DD7}|PruebaTecnica2025.csproj|c:\\users\\admin\\desktop\\pruebatecnica2025\\pruebatecnica2025\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{B4717999-3CB0-4091-9D18-96C4D2695DD7}|PruebaTecnica2025.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4717999-3CB0-4091-9D18-96C4D2695DD7}|PruebaTecnica2025.csproj|c:\\users\\admin\\desktop\\pruebatecnica2025\\pruebatecnica2025\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B4717999-3CB0-4091-9D18-96C4D2695DD7}|PruebaTecnica2025.csproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4717999-3CB0-4091-9D18-96C4D2695DD7}|PruebaTecnica2025.csproj|c:\\users\\admin\\desktop\\pruebatecnica2025\\pruebatecnica2025\\models\\mappers\\publicationmappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4717999-3CB0-4091-9D18-96C4D2695DD7}|PruebaTecnica2025.csproj|solutionrelative:models\\mappers\\publicationmappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4717999-3CB0-4091-9D18-96C4D2695DD7}|PruebaTecnica2025.csproj|c:\\users\\admin\\desktop\\pruebatecnica2025\\pruebatecnica2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4717999-3CB0-4091-9D18-96C4D2695DD7}|PruebaTecnica2025.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4717999-3CB0-4091-9D18-96C4D2695DD7}|PruebaTecnica2025.csproj|c:\\users\\admin\\desktop\\pruebatecnica2025\\pruebatecnica2025\\data\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4717999-3CB0-4091-9D18-96C4D2695DD7}|PruebaTecnica2025.csproj|solutionrelative:data\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4717999-3CB0-4091-9D18-96C4D2695DD7}|PruebaTecnica2025.csproj|c:\\users\\admin\\desktop\\pruebatecnica2025\\pruebatecnica2025\\data\\migrations\\20250825161613_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4717999-3CB0-4091-9D18-96C4D2695DD7}|PruebaTecnica2025.csproj|solutionrelative:data\\migrations\\20250825161613_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4717999-3CB0-4091-9D18-96C4D2695DD7}|PruebaTecnica2025.csproj|c:\\users\\admin\\desktop\\pruebatecnica2025\\pruebatecnica2025\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4717999-3CB0-4091-9D18-96C4D2695DD7}|PruebaTecnica2025.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4717999-3CB0-4091-9D18-96C4D2695DD7}|PruebaTecnica2025.csproj|c:\\users\\admin\\desktop\\pruebatecnica2025\\pruebatecnica2025\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B4717999-3CB0-4091-9D18-96C4D2695DD7}|PruebaTecnica2025.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4717999-3CB0-4091-9D18-96C4D2695DD7}|PruebaTecnica2025.csproj|c:\\users\\admin\\desktop\\pruebatecnica2025\\pruebatecnica2025\\services\\implementations\\publicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4717999-3CB0-4091-9D18-96C4D2695DD7}|PruebaTecnica2025.csproj|solutionrelative:services\\implementations\\publicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4717999-3CB0-4091-9D18-96C4D2695DD7}|PruebaTecnica2025.csproj|c:\\users\\admin\\desktop\\pruebatecnica2025\\pruebatecnica2025\\models\\dtos\\publicationcreateupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4717999-3CB0-4091-9D18-96C4D2695DD7}|PruebaTecnica2025.csproj|solutionrelative:models\\dtos\\publicationcreateupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4717999-3CB0-4091-9D18-96C4D2695DD7}|PruebaTecnica2025.csproj|c:\\users\\admin\\desktop\\pruebatecnica2025\\pruebatecnica2025\\models\\dtos\\publicationdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4717999-3CB0-4091-9D18-96C4D2695DD7}|PruebaTecnica2025.csproj|solutionrelative:models\\dtos\\publicationdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4717999-3CB0-4091-9D18-96C4D2695DD7}|PruebaTecnica2025.csproj|c:\\users\\admin\\desktop\\pruebatecnica2025\\pruebatecnica2025\\models\\publicationimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4717999-3CB0-4091-9D18-96C4D2695DD7}|PruebaTecnica2025.csproj|solutionrelative:models\\publicationimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4717999-3CB0-4091-9D18-96C4D2695DD7}|PruebaTecnica2025.csproj|c:\\users\\admin\\desktop\\pruebatecnica2025\\pruebatecnica2025\\models\\publication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4717999-3CB0-4091-9D18-96C4D2695DD7}|PruebaTecnica2025.csproj|solutionrelative:models\\publication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4717999-3CB0-4091-9D18-96C4D2695DD7}|PruebaTecnica2025.csproj|c:\\users\\admin\\desktop\\pruebatecnica2025\\pruebatecnica2025\\models\\dtos\\bulkdeletedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4717999-3CB0-4091-9D18-96C4D2695DD7}|PruebaTecnica2025.csproj|solutionrelative:models\\dtos\\bulkdeletedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4717999-3CB0-4091-9D18-96C4D2695DD7}|PruebaTecnica2025.csproj|c:\\users\\admin\\desktop\\pruebatecnica2025\\pruebatecnica2025\\services\\abstractions\\ipublicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4717999-3CB0-4091-9D18-96C4D2695DD7}|PruebaTecnica2025.csproj|solutionrelative:services\\abstractions\\ipublicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4717999-3CB0-4091-9D18-96C4D2695DD7}|PruebaTecnica2025.csproj|c:\\users\\admin\\desktop\\pruebatecnica2025\\pruebatecnica2025\\common\\exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4717999-3CB0-4091-9D18-96C4D2695DD7}|PruebaTecnica2025.csproj|solutionrelative:common\\exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4717999-3CB0-4091-9D18-96C4D2695DD7}|PruebaTecnica2025.csproj|c:\\users\\admin\\desktop\\pruebatecnica2025\\pruebatecnica2025\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B4717999-3CB0-4091-9D18-96C4D2695DD7}|PruebaTecnica2025.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\Desktop\\PruebaTecnica2025\\PruebaTecnica2025\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PublicationCreateUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\PruebaTecnica2025\\PruebaTecnica2025\\Models\\Dtos\\PublicationCreateUpdateDto.cs",
+              "RelativeDocumentMoniker": "Models\\Dtos\\PublicationCreateUpdateDto.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\PruebaTecnica2025\\PruebaTecnica2025\\Models\\Dtos\\PublicationCreateUpdateDto.cs",
+              "RelativeToolTip": "Models\\Dtos\\PublicationCreateUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T23:55:58.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\PruebaTecnica2025\\PruebaTecnica2025\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\PruebaTecnica2025\\PruebaTecnica2025\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-08-24T22:48:57.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PublicationMappings.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\PruebaTecnica2025\\PruebaTecnica2025\\Models\\Mappers\\PublicationMappings.cs",
+              "RelativeDocumentMoniker": "Models\\Mappers\\PublicationMappings.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\PruebaTecnica2025\\PruebaTecnica2025\\Models\\Mappers\\PublicationMappings.cs",
+              "RelativeToolTip": "Models\\Mappers\\PublicationMappings.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowBsAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T00:29:44.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\PruebaTecnica2025\\PruebaTecnica2025\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\PruebaTecnica2025\\PruebaTecnica2025\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-25T15:18:26.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\PruebaTecnica2025\\PruebaTecnica2025\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\PruebaTecnica2025\\PruebaTecnica2025\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAIAwwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T21:41:24.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PublicationsController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\PruebaTecnica2025\\PruebaTecnica2025\\Controllers\\PublicationsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PublicationsController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\PruebaTecnica2025\\PruebaTecnica2025\\Controllers\\PublicationsController.cs",
+              "RelativeToolTip": "Controllers\\PublicationsController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAApwDYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T23:01:11.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\PruebaTecnica2025\\PruebaTecnica2025\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\PruebaTecnica2025\\PruebaTecnica2025\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-24T21:43:44.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\PruebaTecnica2025\\PruebaTecnica2025\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\PruebaTecnica2025\\PruebaTecnica2025\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAAAK8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-08-25T08:08:15.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Docker.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\PruebaTecnica2025\\PruebaTecnica2025\\appsettings.Docker.json",
+              "RelativeDocumentMoniker": "appsettings.Docker.json",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\PruebaTecnica2025\\PruebaTecnica2025\\appsettings.Docker.json",
+              "RelativeToolTip": "appsettings.Docker.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-25T16:37:22.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PublicationDtos.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\PruebaTecnica2025\\PruebaTecnica2025\\Models\\Dtos\\PublicationDtos.cs",
+              "RelativeDocumentMoniker": "Models\\Dtos\\PublicationDtos.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\PruebaTecnica2025\\PruebaTecnica2025\\Models\\Dtos\\PublicationDtos.cs",
+              "RelativeToolTip": "Models\\Dtos\\PublicationDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T23:25:47.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\PruebaTecnica2025\\PruebaTecnica2025\\Data\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\PruebaTecnica2025\\PruebaTecnica2025\\Data\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Data\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T16:17:44.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250825161613_Init.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\PruebaTecnica2025\\PruebaTecnica2025\\Data\\Migrations\\20250825161613_Init.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250825161613_Init.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\PruebaTecnica2025\\PruebaTecnica2025\\Data\\Migrations\\20250825161613_Init.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250825161613_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T16:17:43.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PublicationService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\PruebaTecnica2025\\PruebaTecnica2025\\Services\\Implementations\\PublicationService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\PublicationService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\PruebaTecnica2025\\PruebaTecnica2025\\Services\\Implementations\\PublicationService.cs",
+              "RelativeToolTip": "Services\\Implementations\\PublicationService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAApwCYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T23:29:18.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\PruebaTecnica2025\\PruebaTecnica2025\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\PruebaTecnica2025\\PruebaTecnica2025\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T03:02:46.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BulkDeleteDtos.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\PruebaTecnica2025\\PruebaTecnica2025\\Models\\Dtos\\BulkDeleteDtos.cs",
+              "RelativeDocumentMoniker": "Models\\Dtos\\BulkDeleteDtos.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\PruebaTecnica2025\\PruebaTecnica2025\\Models\\Dtos\\BulkDeleteDtos.cs",
+              "RelativeToolTip": "Models\\Dtos\\BulkDeleteDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T02:35:03.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Publication.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\PruebaTecnica2025\\PruebaTecnica2025\\Models\\Publication.cs",
+              "RelativeDocumentMoniker": "Models\\Publication.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\PruebaTecnica2025\\PruebaTecnica2025\\Models\\Publication.cs",
+              "RelativeToolTip": "Models\\Publication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T23:22:38.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PublicationImage.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\PruebaTecnica2025\\PruebaTecnica2025\\Models\\PublicationImage.cs",
+              "RelativeDocumentMoniker": "Models\\PublicationImage.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\PruebaTecnica2025\\PruebaTecnica2025\\Models\\PublicationImage.cs",
+              "RelativeToolTip": "Models\\PublicationImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T23:22:44.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IPublicationService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\PruebaTecnica2025\\PruebaTecnica2025\\Services\\Abstractions\\IPublicationService.cs",
+              "RelativeDocumentMoniker": "Services\\Abstractions\\IPublicationService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\PruebaTecnica2025\\PruebaTecnica2025\\Services\\Abstractions\\IPublicationService.cs",
+              "RelativeToolTip": "Services\\Abstractions\\IPublicationService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T23:28:01.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Exceptions.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\PruebaTecnica2025\\PruebaTecnica2025\\Common\\Exceptions.cs",
+              "RelativeDocumentMoniker": "Common\\Exceptions.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\PruebaTecnica2025\\PruebaTecnica2025\\Common\\Exceptions.cs",
+              "RelativeToolTip": "Common\\Exceptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T23:28:41.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\PruebaTecnica2025\\PruebaTecnica2025\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\PruebaTecnica2025\\PruebaTecnica2025\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-24T21:47:32.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\PruebaTecnica2025\\PruebaTecnica2025\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\PruebaTecnica2025\\PruebaTecnica2025\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T18:37:05.967Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

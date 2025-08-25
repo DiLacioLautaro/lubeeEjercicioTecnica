@@ -1,0 +1,70 @@
+﻿version: "3.9"
+
+services:
+  db:
+    image: postgres:16
+    container_name: pg-pt2025
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: PruebaTecnica2025Db
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d PruebaTecnica2025Db"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  adminer:
+    image: adminer
+    container_name: adminer-pt2025
+    restart: unless-stopped
+    environment:
+      ADMINER_DEFAULT_SERVER: db
+    ports:
+      - "8081:8080"
+    depends_on:
+      db:
+        condition: service_healthy
+
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: api-pt2025
+    restart: unless-stopped
+    environment:
+      ASPNETCORE_ENVIRONMENT: Docker
+      ASPNETCORE_URLS: "http://0.0.0.0:8080"
+      DatabaseProvider: "PostgreSQL"
+      ConnectionStrings__DefaultConnection: "Host=db;Port=5432;Database=PruebaTecnica2025Db;Username=postgres;Password=postgres"
+    ports:
+      - "5000:8080"
+    depends_on:
+      db:
+        condition: service_healthy
+
+
+  frontend:
+    build:
+      context: ./FrontEnd
+      dockerfile: Dockerfile
+    container_name: fe-pt2025
+    restart: unless-stopped
+    environment:
+      VITE_API_BASE: "http://localhost:5000/api"
+    command: ["npm", "run", "dev", "--", "--host", "0.0.0.0"]
+    ports:
+      - "5173:5173"
+    depends_on:
+      - backend
+    volumes:
+      - ./FrontEnd:/app
+      - /app/node_modules
+
+volumes:
+  pgdata:
